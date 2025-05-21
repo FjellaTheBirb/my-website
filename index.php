@@ -7,7 +7,8 @@
     <title>Fjella's Cozy Corner</title>
 </head>
 <body>
-    <h1 style="background-image: url('../images/Flowers-Pixel.png');"><i>Fjella's Cozy Corner</i></h1>
+    <img src="images/Flowers-Pixel.png" alt="Flower Pattern Pixel Art">
+    <h1><i>Fjella's Cozy Corner</i></h1>
     <p><b>Welcome to my personal space on the internet!</b></p>
     <h2>...................................................................................................................................................................................................................</h2>
     <h2><i>What is this site?</i></h2>
