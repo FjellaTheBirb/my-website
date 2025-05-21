@@ -17,6 +17,10 @@
     <p>You can do all sorts of random stuff (soon&trade;)</p>
     <p>See my random fun projects (soon&trade;)</p>
     <p>Having fun (hopefully)</p>
+    <br>
+    <a href="projects.php">My projects</a>
+
+
 </body>
 <style>
     body {
@@ -25,6 +29,11 @@
     }
     h1, h2, p {
         color: deeppink;
+    }
+    a {
+        color: deeppink;
+        text-decoration: none;
+        font-size: 20px;
     }
 </style>
 </html>
