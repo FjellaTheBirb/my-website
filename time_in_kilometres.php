@@ -25,8 +25,12 @@
     </script>
 </head>
 <body onload=display_ct();>
-<h1>Current time is</h1>
-<br><br><br><br>
+<h1>The current time is:</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h2><span id='ct' ></span></h2>
 <h3>kilometres</h3>
 <a href="projects.php">Back</a>
