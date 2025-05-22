@@ -7,7 +7,8 @@
     <title>Fjella's Cozy Corner</title>
 </head>
 <body>
-    <h1 style="background-image: url('../images/Flowers-Pixel.png');"><i>Fjella's Cozy Corner</i></h1>
+    <img src="images/Flowers-Pixel.png" alt="Flower Pattern Pixel Art">
+    <h1><i>Fjella's Cozy Corner</i></h1>
     <p><b>Welcome to my personal space on the internet!</b></p>
     <h2>...................................................................................................................................................................................................................</h2>
     <h2><i>What is this site?</i></h2>
@@ -16,6 +17,10 @@
     <p>You can do all sorts of random stuff (soon&trade;)</p>
     <p>See my random fun projects (soon&trade;)</p>
     <p>Having fun (hopefully)</p>
+    <br>
+    <a href="projects.php">My projects</a>
+
+
 </body>
 <style>
     body {
@@ -24,6 +29,11 @@
     }
     h1, h2, p {
         color: deeppink;
+    }
+    a {
+        color: deeppink;
+        text-decoration: none;
+        font-size: 20px;
     }
 </style>
 </html>
