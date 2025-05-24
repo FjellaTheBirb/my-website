@@ -19,8 +19,10 @@
     <p>Having fun (hopefully)</p>
     <br>
     <a href="projects.php">My projects</a>
-    <a href="http://r6ibumwufrdsm4l5xszg7cvxsqy7irpqf2q2f2nmts5zzrmlrvyw2bid.onion">http://r6ibumwufrdsm4l5xszg7cvxsqy7irpqf2q2f2nmts5zzrmlrvyw2bid.onion</a>
-
+    <br>
+    <br>
+    <p>Onion Address:</p>
+    <p>r6ibumwufrdsm4l5xszg7cvxsqy7irpqf2q2f2nmts5zzrmlrvyw2bid.onion</p>
 
 </body>
 <style>
